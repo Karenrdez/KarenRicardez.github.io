@@ -1,11 +1,9 @@
----
-title: Inicio
-layout: default
----
+
 
 # Hola — Soy Karen Janet Ricárdez Santos
 
-Soy desarrolladora Java Full Stack.  
+Soy desarrolladora Java Full Stack. 
+Motivada por el reto de convertir problemas en soluciones prácticas mediante programación y análisis estructurado. Me distingue un enfoque orientado a resultados y una fuerte capacidad para aprender tecnologías nuevas.
 Puedes contactarme aquí:
 
 - <a href="https://www.linkedin.com/in/karen-ric%C3%A1rdez-santos-46a432203/" target="_blank">LinkedIn</a>
