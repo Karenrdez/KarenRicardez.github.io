@@ -1,10 +1,10 @@
 # **Karen Janet Ricárdez Santos**
 
-📍 CDMX — Dispuesta a reubicación  
+CDMX — Dispuesta a reubicación  
 karenthrs2@gmail.com  
 9331374126  
-🔗 <a href="https://www.linkedin.com/in/karen-ric%C3%A1rdez-santos-46a432203" target="_blank">LinkedIn</a>  
-🔗 <a href="https://github.com/Karenrdez" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/karen-ric%C3%A1rdez-santos-46a432203" target="_blank">LinkedIn</a>  
+<a href="https://github.com/Karenrdez" target="_blank">GitHub</a>
 
 ---
 
