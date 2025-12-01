@@ -1,4 +1,4 @@
-
+<img src="/assets/1697128702353.jpg" alt="Foto de Karen Ricárdez" width="180" style="border-radius: 10px;">
 
 # Hola — Soy Karen Janet Ricárdez Santos
 
